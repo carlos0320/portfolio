@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d3a5f78.css",
+    "main.js": "/static/js/main.2c3e275f.js",
+    "static/media/carlos_picture.JPG": "/static/media/carlos_picture.dc05ba56f8c5471bf843.JPG",
+    "static/media/scent-zone_dashboard.png": "/static/media/scent-zone_dashboard.086206caf5319ed54d87.png",
+    "static/media/scent-zone_screen.png": "/static/media/scent-zone_screen.0f468ff8457b895b4e54.png",
+    "static/media/GiffApp_screen.png": "/static/media/GiffApp_screen.1182a9b5e921d2d1bbf3.png",
+    "static/media/Carlos_hero.png": "/static/media/Carlos_hero.2ffef2416953aebb6de5.png",
+    "static/media/CarlosGrisales_CV.pdf": "/static/media/CarlosGrisales_CV.ddf95b5ce4c2fa2d2474.pdf",
+    "static/media/blackjack_screen.png": "/static/media/blackjack_screen.e4205b6190e7a0538118.png",
+    "static/media/TodoApp_screen.png": "/static/media/TodoApp_screen.0a80d5389815615adf91.png",
+    "index.html": "/index.html",
+    "main.0d3a5f78.css.map": "/static/css/main.0d3a5f78.css.map",
+    "main.2c3e275f.js.map": "/static/js/main.2c3e275f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d3a5f78.css",
+    "static/js/main.2c3e275f.js"
+  ]
+}
